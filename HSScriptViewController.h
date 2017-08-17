@@ -1,0 +1,3 @@
+@interface HSScriptViewController : UIViewController
+
+@end

@@ -1,0 +1,8 @@
+Package: me.jujhar.hackscript
+Name: HackScript
+Version: 0.0.5
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Jujhar
+Author: Jujhar
+Section: Utilities

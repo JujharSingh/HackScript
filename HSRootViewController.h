@@ -1,0 +1,3 @@
+@interface HSRootViewController : UITableViewController
+
+@end
